@@ -1,0 +1,390 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-11 19:41-0500\n"
+"PO-Revision-Date: 2026-08-11 19:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: fr <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: api.lua:49
+msgid "The mail could not be sent:"
+msgstr "Le mail ne peut pas être envoyé :"
+
+#: api.lua:55
+msgid "You did not specify any valid recipient."
+msgstr "Vous n'avez pas spécifié de destinataire valide."
+
+#: onjoin.lua:20
+msgid "You have mail! Type /mail to read"
+msgstr "Vous avez reçu un mail ! Entrez /mail pour le consulter"
+
+#: player_recipients.lua:13
+msgid "You have a new message from @1! Subject: @2"
+msgstr "Vous avez un nouveau message de @1 ! Objet : @2"
+
+#: player_recipients.lua:14
+msgid "To view it, type /mail"
+msgstr "Pour le consulter, entrez /mail"
+
+#: player_recipients.lua:15
+msgid "You could also use the button in your inventory."
+msgstr "Vous pouvez également utiliser le bouton dans votre inventaire"
+
+msgid "Original author"
+msgstr "Auteur original"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Internationalization"
+msgstr "Traduction"
+
+msgid "Textures"
+msgstr "Textures"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Provided by mt-mods"
+msgstr "Fourni par mt-mods"
+
+msgid "Version: @1"
+msgstr "Version : @1"
+
+msgid "Licenses"
+msgstr "Licences"
+
+msgid "Expat (code), WTFPL (textures)"
+msgstr "Expat (code), WTFPL (textures)"
+
+msgid "Communication using this system is NOT guaranteed to be private!"
+msgstr "La communication par ce système n'est pas garantie d'être privée !"
+
+msgid "Admins are able to view the messages of any player."
+msgstr "Les administrateurs peuvent voir les messages de chaque joueur."
+
+msgid "Contributors"
+msgstr "Contributeurs"
+
+msgid "Group by name"
+msgstr "Grouper par nom"
+
+msgid "Group by contribution"
+msgstr "Grouper par contribution"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "About"
+msgstr "À propos"
+
+msgid "BCC"
+msgstr "Cci"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Save draft"
+msgstr "Enregistrer le brouillon"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Subject"
+msgstr "Objet"
+
+msgid "To"
+msgstr "À"
+
+msgid "CC"
+msgstr "Cc"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "No drafts"
+msgstr "Aucun brouillon"
+
+msgid "Trash"
+msgstr "Corbeille"
+
+msgid "Inbox"
+msgstr "Boîte de réception"
+
+msgid "Outbox"
+msgstr "Envoyés"
+
+msgid "Drafts"
+msgstr "Brouillons"
+
+msgid "Contacts"
+msgstr "Contacts"
+
+msgid "Mail lists"
+msgstr "Listes de diffusion"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "(No subject)"
+msgstr "(Sans objet)"
+
+msgid "Player name"
+msgstr "Nom du joueur"
+
+msgid "That name is already in your contacts"
+msgstr "Ce nom est déjà dans vos contacts"
+
+msgid "The contact name cannot be empty."
+msgstr "Le nom du contact ne peut pas être vide."
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Maillist name"
+msgstr "Nom de la liste de diffusion"
+
+msgid "Desc"
+msgstr "Desc"
+
+msgid "Players"
+msgstr "Joueurs"
+
+msgid "That name is already in your mailing lists."
+msgstr "Ce nom est déjà présent dans vos listes de diffusion."
+
+msgid "The mailing list name cannot be empty."
+msgstr "Le nom de la liste de diffusion ne peut pas être vide."
+
+msgid "Mark Read"
+msgstr "Marquer comme lu"
+
+msgid "Mark Unread"
+msgstr "Marquer non lu"
+
+msgid "Mark Spam"
+msgstr "Marquer comme spam"
+
+msgid "Unmark Spam"
+msgstr "Marquer non-spam"
+
+msgid "Reply"
+msgstr "Répondre"
+
+msgid "Reply all"
+msgstr "Répondre à tous"
+
+msgid "Forward"
+msgstr "Transférer"
+
+msgid "Reply only to the sender"
+msgstr "Répondre uniquement à l'expéditeur"
+
+msgid "Reply to all involved people"
+msgstr "Répondre à toutes les personnes concernées"
+
+msgid "Transfer message to other people"
+msgstr "Transférer le message à d'autres personnes"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "From"
+msgstr "De"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Allow multiple selection"
+msgstr "Autoriser la sélection multiple"
+
+msgid "@1 of @2 selected"
+msgstr "@1 sur @2 sélectionnés"
+
+msgid "(Un)select all"
+msgstr "Tout (dé)sélectionner"
+
+msgid "No mail"
+msgstr "Aucun mail"
+
+msgid "Read"
+msgstr "Lire"
+
+msgid "Ascending"
+msgstr "Croissant"
+
+msgid "Descending"
+msgstr "Décroissant"
+
+msgid "(No description)"
+msgstr "(Sans description)"
+
+msgid "No maillist"
+msgstr "Aucune liste de diffusion"
+
+msgid "Receivers"
+msgstr "Destinataires"
+
+msgid "(Un)mute sender"
+msgstr "(Dé)mettre en sourdine"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Remove"
+msgstr "Enlever"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Restore"
+msgstr "Restaurer"
+
+msgid "Empty"
+msgstr "Vider"
+
+msgid "Trash is empty"
+msgstr "La corbeille est vide"
+
+msgid "From/To"
+msgstr "De/À"
+
+msgid "No contacts"
+msgstr "Aucun contact"
+
+msgid "The method of delivery to @1 is invalid."
+msgstr "La méthode d'expédition à @1 est invalide."
+
+msgid "The recipient @1 could not be identified."
+msgstr "Le destinataire @1 n'a pas pu être identifié."
+
+msgid "@1 rejected your mail."
+msgstr "@1 a rejeté votre mail."
+
+msgid "Chat notifications"
+msgstr "Notifications dans le tchat"
+
+msgid "Receive a message in the chat when there is a new message"
+msgstr "Recevoir un message dans le tchat lorsqu'un nouveau message est reçu"
+
+msgid "On join notifications"
+msgstr "Notifications à la connexion"
+
+msgid "Receive a message at login when inbox isn't empty"
+msgstr "Recevoir un message à la connexion lorsque la boîte de réception n'est pas vide"
+
+msgid "HUD notifications"
+msgstr "Notifications ATH"
+
+msgid "Show an HUD notification when inbox isn't empty"
+msgstr "Indiquer dans l'ATH que la boîte de réception n'est pas vide"
+
+msgid "Sound notifications"
+msgstr "Notifications sonores"
+
+msgid "Play a sound when there is a new message"
+msgstr "Jouer un son lorsqu'un nouveau message est reçu"
+
+msgid "Show unread in different color"
+msgstr "Coloriser les non lus"
+
+msgid "Show CC/BCC in different color"
+msgstr "Coloriser les Cc/Cci"
+
+msgid "Default sorting field"
+msgstr "Champ de tri par défaut"
+
+msgid "Default sorting direction"
+msgstr "Direction de tri par défaut"
+
+msgid "Move deleted messages to trash"
+msgstr "Supprimer les messages dans la corbeille"
+
+msgid "Automatic marking read"
+msgstr "Lu automatique"
+
+msgid "Mark a message as read when opened"
+msgstr "Marquer un message comme lu lorsqu'il est ouvert"
+
+msgid "Date format"
+msgstr "Format de la date"
+
+msgid "Timezone offset"
+msgstr "Compensation horaire"
+
+msgid "Offset to add to server time."
+msgstr "Écart de temps à ajouter à l'heure du serveur."
+
+msgid "Mute list"
+msgstr "Liste de sourdine"
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "Message list"
+msgstr "Liste de messages"
+
+msgid "Fields"
+msgstr "Champs"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Date and Time"
+msgstr "Date et Heure"
+
+msgid "years"
+msgstr "années"
+
+msgid "months"
+msgstr "mois"
+
+msgid "weeks"
+msgstr "semaines"
+
+msgid "days"
+msgstr "jours"
+
+msgid "hours"
+msgstr "heures"
+
+msgid "minuts"
+msgstr "minutes"
+
+msgid "seconds"
+msgstr "secondes"
+
+msgid "@1 ago"
+msgstr "Il y a @1"
+

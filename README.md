@@ -53,7 +53,7 @@ Overview:
 
 ## Dependencies
 
-- Luanti/Minetest v
+- Luanti/Minetest v5.10
 
 ## License
 
