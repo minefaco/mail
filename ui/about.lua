@@ -142,9 +142,8 @@ core.register_on_player_receive_fields(function(player, formname, fields)
 
 	elseif fields.github then
 		core.chat_send_player(playername, "https://github.com/mt-mods/mail")
-
 	elseif fields.contentdb then
-		core.chat_send_player(playername, "https://content.minetest.net/packages/mt-mods/mail")
+		core.chat_send_player(playername, "https://content.luanti.org/packages/mt-mods/mail")
 	elseif fields.contributor_grouping then
 		mail.selected_idxs.contributor_grouping[playername] = fields.contributor_grouping
 		mail.show_about(playername)
