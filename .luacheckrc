@@ -9,7 +9,7 @@ read_globals = {
 	beerchat = {fields = {"has_player_muted_player", "execute_callbacks"}},
 
 	-- Luanti
-	"core",
+	"core", "minetest",
 	"vector", "ItemStack",
 	"dump",
 
