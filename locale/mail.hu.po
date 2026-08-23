@@ -1,0 +1,393 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-11 19:41-0500\n"
+"PO-Revision-Date: 2026-08-11 19:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: hu <LL@li.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: api.lua:49
+msgid "The mail could not be sent:"
+msgstr ""
+
+#: api.lua:55
+msgid "You did not specify any valid recipient."
+msgstr ""
+
+#: onjoin.lua:20
+msgid "You have mail! Type /mail to read"
+msgstr "Van egy leveled! Írd /mail az olvasáshoz"
+
+#: player_recipients.lua:13
+msgid "You have a new message from @1! Subject: @2"
+msgstr "Van egy új üzeneted @1-től Cím: @2"
+
+#: player_recipients.lua:14
+msgid "To view it, type /mail"
+msgstr "Ahhoz hogy megnézd, írd /mail"
+
+#: player_recipients.lua:15
+msgid "You could also use the button in your inventory."
+msgstr "A gombot is tudod használni az inventoridban."
+
+msgid "Original author"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Internationalization"
+msgstr ""
+
+msgid "Textures"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Provided by mt-mods"
+msgstr "Feltéve, hogy az én mt-mod-om"
+
+msgid "Version: @1"
+msgstr ""
+
+msgid "Licenses"
+msgstr "License"
+
+msgid "Expat (code), WTFPL (textures)"
+msgstr "Expat (kód), WTFPL (textúrák)"
+
+msgid "Communication using this system is NOT guaranteed to be private!"
+msgstr "A systemben lévő komunikáció nem garantáltan privát!"
+
+msgid "Admins are able to view the messages of any player."
+msgstr "Az adminok megtudják nézni minden játékos üzenetjét."
+
+msgid "Contributors"
+msgstr "Közreműködöttek"
+
+msgid "Group by name"
+msgstr ""
+
+msgid "Group by contribution"
+msgstr ""
+
+msgid "Note"
+msgstr "Jegyzet"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "About"
+msgstr "Róla"
+
+msgid "BCC"
+msgstr "BCC"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "Save draft"
+msgstr "mentés piszkozatként"
+
+msgid "Send"
+msgstr "Küldés"
+
+msgid "Subject"
+msgstr "Cím"
+
+msgid "To"
+msgstr "Neki"
+
+msgid "CC"
+msgstr "CC"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "New"
+msgstr "Új"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Back"
+msgstr "Visza"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "No drafts"
+msgstr "Nincsenek piszkozatok"
+
+msgid "Trash"
+msgstr ""
+
+msgid "Inbox"
+msgstr "PostaLáda"
+
+msgid "Outbox"
+msgstr "Elküldött"
+
+msgid "Drafts"
+msgstr "Piszkozatok"
+
+msgid "Contacts"
+msgstr "Contaktok"
+
+msgid "Mail lists"
+msgstr "Levelező lista"
+
+msgid "Options"
+msgstr "Lehetőségek"
+
+msgid "Close"
+msgstr "Bezár"
+
+msgid "(No subject)"
+msgstr "(nincs cím)"
+
+msgid "Player name"
+msgstr "Játékos neve"
+
+msgid "That name is already in your contacts"
+msgstr "A név már a kontaktok között van"
+
+msgid "The contact name cannot be empty."
+msgstr "A contakt neve nem lehet üres."
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Maillist name"
+msgstr "Levelező lista neve"
+
+msgid "Desc"
+msgstr "Desc"
+
+msgid "Players"
+msgstr "Játékosok"
+
+msgid "That name is already in your mailing lists."
+msgstr "A név már benne van a levelező listában"
+
+msgid "The mailing list name cannot be empty."
+msgstr "A levelező lista neve nem lehet üres"
+
+msgid "Mark Read"
+msgstr "Jelöld olvasottként"
+
+msgid "Mark Unread"
+msgstr "Jelöld olvasatlanul"
+
+msgid "Mark Spam"
+msgstr ""
+
+msgid "Unmark Spam"
+msgstr ""
+
+msgid "Reply"
+msgstr "Válasz"
+
+msgid "Reply all"
+msgstr "Válaszmindenkinek"
+
+msgid "Forward"
+msgstr "Továbbítás"
+
+msgid "Reply only to the sender"
+msgstr ""
+
+msgid "Reply to all involved people"
+msgstr ""
+
+msgid "Transfer message to other people"
+msgstr ""
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "From"
+msgstr "Tőle"
+
+msgid "Filter"
+msgstr "Filterek"
+
+msgid "Allow multiple selection"
+msgstr ""
+
+msgid "@1 of @2 selected"
+msgstr ""
+
+msgid "(Un)select all"
+msgstr "(ne válaszd ki) mindegyik választása"
+
+msgid "No mail"
+msgstr "Nincs levél"
+
+msgid "Read"
+msgstr "Olvasott"
+
+msgid "Ascending"
+msgstr "Emelkedő"
+
+msgid "Descending"
+msgstr "Sűlyedő"
+
+msgid "(No description)"
+msgstr "(Nincs leírás)"
+
+msgid "No maillist"
+msgstr "Nincs levelező lista"
+
+msgid "Receivers"
+msgstr ""
+
+msgid "(Un)mute sender"
+msgstr ""
+
+msgid "Add"
+msgstr "Hozzáadás"
+
+msgid "Remove"
+msgstr "Elvétel"
+
+msgid "Reset"
+msgstr "Viszaállítás"
+
+msgid "Restore"
+msgstr ""
+
+msgid "Empty"
+msgstr ""
+
+msgid "Trash is empty"
+msgstr ""
+
+msgid "From/To"
+msgstr "Tól(től)/neki"
+
+msgid "No contacts"
+msgstr ""
+
+msgid "The method of delivery to @1 is invalid."
+msgstr ""
+
+msgid "The recipient @1 could not be identified."
+msgstr ""
+
+msgid "@1 rejected your mail."
+msgstr ""
+
+msgid "Chat notifications"
+msgstr "Chates értesítések"
+
+msgid "Receive a message in the chat when there is a new message"
+msgstr ""
+
+msgid "On join notifications"
+msgstr "Belépési értesírés"
+
+msgid "Receive a message at login when inbox isn't empty"
+msgstr ""
+
+msgid "HUD notifications"
+msgstr " HUD értesítés"
+
+msgid "Show an HUD notification when inbox isn't empty"
+msgstr ""
+
+msgid "Sound notifications"
+msgstr "Hang értesítés"
+
+msgid "Play a sound when there is a new message"
+msgstr ""
+
+msgid "Show unread in different color"
+msgstr "Mutasd a nem olvasottakat más színnel"
+
+msgid "Show CC/BCC in different color"
+msgstr "Mutasd a CC-t/BCC-t más színnel"
+
+msgid "Default sorting field"
+msgstr "Alap válogató terület"
+
+msgid "Default sorting direction"
+msgstr ""
+
+msgid "Move deleted messages to trash"
+msgstr ""
+
+msgid "Automatic marking read"
+msgstr ""
+
+msgid "Mark a message as read when opened"
+msgstr ""
+
+msgid "Date format"
+msgstr ""
+
+msgid "Timezone offset"
+msgstr ""
+
+msgid "Offset to add to server time."
+msgstr ""
+
+msgid "Mute list"
+msgstr ""
+
+msgid "Notifications"
+msgstr "Értesítések"
+
+msgid "Message list"
+msgstr "Üzenetek listája"
+
+msgid "Fields"
+msgstr ""
+
+msgid "Spam"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "years"
+msgstr ""
+
+msgid "months"
+msgstr ""
+
+msgid "weeks"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "hours"
+msgstr ""
+
+msgid "minuts"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+msgid "@1 ago"
+msgstr ""
+
+msgid "Version"
+msgstr "Verzió"
+

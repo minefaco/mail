@@ -1,0 +1,390 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-11 19:41-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: api.lua:49
+msgid "The mail could not be sent:"
+msgstr ""
+
+#: api.lua:55
+msgid "You did not specify any valid recipient."
+msgstr ""
+
+#: onjoin.lua:20
+msgid "You have mail! Type /mail to read"
+msgstr ""
+
+#: player_recipients.lua:13
+msgid "You have a new message from @1! Subject: @2"
+msgstr ""
+
+#: player_recipients.lua:14
+msgid "To view it, type /mail"
+msgstr ""
+
+#: player_recipients.lua:15
+msgid "You could also use the button in your inventory."
+msgstr ""
+
+msgid "Original author"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Internationalization"
+msgstr ""
+
+msgid "Textures"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Provided by mt-mods"
+msgstr ""
+
+msgid "Version: @1"
+msgstr ""
+
+msgid "Licenses"
+msgstr ""
+
+msgid "Expat (code), WTFPL (textures)"
+msgstr ""
+
+msgid "Communication using this system is NOT guaranteed to be private!"
+msgstr ""
+
+msgid "Admins are able to view the messages of any player."
+msgstr ""
+
+msgid "Contributors"
+msgstr ""
+
+msgid "Group by name"
+msgstr ""
+
+msgid "Group by contribution"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "BCC"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Save draft"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "CC"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "No drafts"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Drafts"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Mail lists"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "(No subject)"
+msgstr ""
+
+msgid "Player name"
+msgstr ""
+
+msgid "That name is already in your contacts"
+msgstr ""
+
+msgid "The contact name cannot be empty."
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Maillist name"
+msgstr ""
+
+msgid "Desc"
+msgstr ""
+
+msgid "Players"
+msgstr ""
+
+msgid "That name is already in your mailing lists."
+msgstr ""
+
+msgid "The mailing list name cannot be empty."
+msgstr ""
+
+msgid "Mark Read"
+msgstr ""
+
+msgid "Mark Unread"
+msgstr ""
+
+msgid "Mark Spam"
+msgstr ""
+
+msgid "Unmark Spam"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Reply all"
+msgstr ""
+
+msgid "Forward"
+msgstr ""
+
+msgid "Reply only to the sender"
+msgstr ""
+
+msgid "Reply to all involved people"
+msgstr ""
+
+msgid "Transfer message to other people"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Allow multiple selection"
+msgstr ""
+
+msgid "@1 of @2 selected"
+msgstr ""
+
+msgid "(Un)select all"
+msgstr ""
+
+msgid "No mail"
+msgstr ""
+
+msgid "Read"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "(No description)"
+msgstr ""
+
+msgid "No maillist"
+msgstr ""
+
+msgid "Receivers"
+msgstr ""
+
+msgid "(Un)mute sender"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Empty"
+msgstr ""
+
+msgid "Trash is empty"
+msgstr ""
+
+msgid "From/To"
+msgstr ""
+
+msgid "No contacts"
+msgstr ""
+
+msgid "The method of delivery to @1 is invalid."
+msgstr ""
+
+msgid "The recipient @1 could not be identified."
+msgstr ""
+
+msgid "@1 rejected your mail."
+msgstr ""
+
+msgid "Chat notifications"
+msgstr ""
+
+msgid "Receive a message in the chat when there is a new message"
+msgstr ""
+
+msgid "On join notifications"
+msgstr ""
+
+msgid "Receive a message at login when inbox isn't empty"
+msgstr ""
+
+msgid "HUD notifications"
+msgstr ""
+
+msgid "Show an HUD notification when inbox isn't empty"
+msgstr ""
+
+msgid "Sound notifications"
+msgstr ""
+
+msgid "Play a sound when there is a new message"
+msgstr ""
+
+msgid "Show unread in different color"
+msgstr ""
+
+msgid "Show CC/BCC in different color"
+msgstr ""
+
+msgid "Default sorting field"
+msgstr ""
+
+msgid "Default sorting direction"
+msgstr ""
+
+msgid "Move deleted messages to trash"
+msgstr ""
+
+msgid "Automatic marking read"
+msgstr ""
+
+msgid "Mark a message as read when opened"
+msgstr ""
+
+msgid "Date format"
+msgstr ""
+
+msgid "Timezone offset"
+msgstr ""
+
+msgid "Offset to add to server time."
+msgstr ""
+
+msgid "Mute list"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Message list"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "Spam"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "years"
+msgstr ""
+
+msgid "months"
+msgstr ""
+
+msgid "weeks"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "hours"
+msgstr ""
+
+msgid "minuts"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+msgid "@1 ago"
+msgstr ""

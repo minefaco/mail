@@ -1,0 +1,390 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-11 19:41-0500\n"
+"PO-Revision-Date: 2026-08-11 19:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ru <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: api.lua:49
+msgid "The mail could not be sent:"
+msgstr "Невозможно отправить почту:"
+
+#: api.lua:55
+msgid "You did not specify any valid recipient."
+msgstr "Вы не указали получателя."
+
+#: onjoin.lua:20
+msgid "You have mail! Type /mail to read"
+msgstr "У вас есть почта! Наберите /mail, чтобы прочитать"
+
+#: player_recipients.lua:13
+msgid "You have a new message from @1! Subject: @2"
+msgstr "У вас новое сообщение от @1! Тема: @2"
+
+#: player_recipients.lua:14
+msgid "To view it, type /mail"
+msgstr "Чтобы посмотреть, наберите /mail"
+
+#: player_recipients.lua:15
+msgid "You could also use the button in your inventory."
+msgstr "Вы также можете использовать кнопку в Вашем инвентаре."
+
+msgid "Original author"
+msgstr "Автор оригинала"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Internationalization"
+msgstr "Перевод"
+
+msgid "Textures"
+msgstr "Текстуры"
+
+msgid "Audio"
+msgstr "Аудио"
+
+msgid "Provided by mt-mods"
+msgstr "Предоставлено mt-mods"
+
+msgid "Version: @1"
+msgstr "Версия: @1"
+
+msgid "Licenses"
+msgstr "Лицензии"
+
+msgid "Expat (code), WTFPL (textures)"
+msgstr "Expat (код), WTFPL (текстуры)"
+
+msgid "Communication using this system is NOT guaranteed to be private!"
+msgstr "Конфиденциальность общения с использованием этой системы НЕ гарантируется!"
+
+msgid "Admins are able to view the messages of any player."
+msgstr "Админ может читать сообщения любых игроков."
+
+msgid "Contributors"
+msgstr "Участники"
+
+msgid "Group by name"
+msgstr "Группировать по имени"
+
+msgid "Group by contribution"
+msgstr "Группировать по участию"
+
+msgid "Note"
+msgstr "Заметка"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "About"
+msgstr "О..."
+
+msgid "BCC"
+msgstr "С.копия"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Save draft"
+msgstr "Сохр. черновик"
+
+msgid "Send"
+msgstr "Отправить"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "To"
+msgstr "Кому"
+
+msgid "CC"
+msgstr "Копия"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "New"
+msgstr "Новое"
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "No drafts"
+msgstr "Нет черновиков"
+
+msgid "Trash"
+msgstr "Корзина"
+
+msgid "Inbox"
+msgstr "Входящие"
+
+msgid "Outbox"
+msgstr "Исходящие"
+
+msgid "Drafts"
+msgstr "Черновики"
+
+msgid "Contacts"
+msgstr "Контакты"
+
+msgid "Mail lists"
+msgstr "Списки рассылки"
+
+msgid "Options"
+msgstr "Опции"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "(No subject)"
+msgstr "(без темы)"
+
+msgid "Player name"
+msgstr "Имя игрока"
+
+msgid "That name is already in your contacts"
+msgstr "Это имя уже есть в Ваших контактах"
+
+msgid "The contact name cannot be empty."
+msgstr "Имя контакта не может быть пустым."
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Maillist name"
+msgstr "Название списка"
+
+msgid "Desc"
+msgstr "Описание"
+
+msgid "Players"
+msgstr "Игроки"
+
+msgid "That name is already in your mailing lists."
+msgstr "Это имя уже есть в ваших списках рассылки."
+
+msgid "The mailing list name cannot be empty."
+msgstr "Название списка не может быть пустым."
+
+msgid "Mark Read"
+msgstr "Отм. прочитано"
+
+msgid "Mark Unread"
+msgstr "Отм. непрочитано"
+
+msgid "Mark Spam"
+msgstr "Отм. спам"
+
+msgid "Unmark Spam"
+msgstr "Снять отм. спам"
+
+msgid "Reply"
+msgstr "Ответить"
+
+msgid "Reply all"
+msgstr "Ответить всем"
+
+msgid "Forward"
+msgstr "Переслать"
+
+msgid "Reply only to the sender"
+msgstr "Ответить только отправителю"
+
+msgid "Reply to all involved people"
+msgstr "Ответить всем участникам"
+
+msgid "Transfer message to other people"
+msgstr "Переслать сообщение другим игрокам"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "From"
+msgstr "От"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Allow multiple selection"
+msgstr "Разрешить выбор нескольких"
+
+msgid "@1 of @2 selected"
+msgstr "@1 из @2 выбраны"
+
+msgid "(Un)select all"
+msgstr "Снять выбор со всех"
+
+msgid "No mail"
+msgstr "Нет почты"
+
+msgid "Read"
+msgstr "Прочитано"
+
+msgid "Ascending"
+msgstr "Возрастание"
+
+msgid "Descending"
+msgstr "Убывание"
+
+msgid "(No description)"
+msgstr "(Нет описания)"
+
+msgid "No maillist"
+msgstr "Не список рассылки"
+
+msgid "Receivers"
+msgstr "Получатели"
+
+msgid "(Un)mute sender"
+msgstr "Вкл. звук для отправителя"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Reset"
+msgstr "Сбросить"
+
+msgid "Restore"
+msgstr "Восстановить"
+
+msgid "Empty"
+msgstr "Очистить"
+
+msgid "Trash is empty"
+msgstr "Корзина пуста"
+
+msgid "From/To"
+msgstr "От/Кому"
+
+msgid "No contacts"
+msgstr "Нет контактов"
+
+msgid "The method of delivery to @1 is invalid."
+msgstr "Метод доставки для @1 не действителен."
+
+msgid "The recipient @1 could not be identified."
+msgstr "Невозможно идентифицировать получателя @1."
+
+msgid "@1 rejected your mail."
+msgstr "@1 отклонил ваше письмо."
+
+msgid "Chat notifications"
+msgstr "Уведомления в чате"
+
+msgid "Receive a message in the chat when there is a new message"
+msgstr "Получать сообщение в чате, когда приходит новое сообщение"
+
+msgid "On join notifications"
+msgstr "Уведомления при присоединении"
+
+msgid "Receive a message at login when inbox isn't empty"
+msgstr "Получать сообщение при входе, когда есть письма во Входящих"
+
+msgid "HUD notifications"
+msgstr "HUD уведомления"
+
+msgid "Show an HUD notification when inbox isn't empty"
+msgstr "Показывать уведомление HUD, если папка «Входящие» не пуста"
+
+msgid "Sound notifications"
+msgstr "Звуковые уведомления"
+
+msgid "Play a sound when there is a new message"
+msgstr "Проигрывать звук, когда приходит новое сообщение"
+
+msgid "Show unread in different color"
+msgstr "Показывать не прочтенные други цветом"
+
+msgid "Show CC/BCC in different color"
+msgstr "Показывать Копию/Скрытую копию другим цветом"
+
+msgid "Default sorting field"
+msgstr "Поле для сортировки по умолчанию"
+
+msgid "Default sorting direction"
+msgstr "Направление сортировки по умолчанию"
+
+msgid "Move deleted messages to trash"
+msgstr "Перемещать удаленные сообщения в корзину"
+
+msgid "Automatic marking read"
+msgstr "Автоматически отмечать прочтение"
+
+msgid "Mark a message as read when opened"
+msgstr "Отмечать сообщение как прочитанное при открытии"
+
+msgid "Date format"
+msgstr "Формат даты"
+
+msgid "Timezone offset"
+msgstr "Временная зона"
+
+msgid "Offset to add to server time."
+msgstr "Добавлять ко времени сервера"
+
+msgid "Mute list"
+msgstr "Заглушить список"
+
+msgid "Notifications"
+msgstr "Уведомления"
+
+msgid "Message list"
+msgstr "Список сообщений"
+
+msgid "Fields"
+msgstr "Поля"
+
+msgid "Spam"
+msgstr "Спам"
+
+msgid "Other"
+msgstr "Другое"
+
+msgid "Date and Time"
+msgstr "Дата и Время"
+
+msgid "years"
+msgstr "лет"
+
+msgid "months"
+msgstr "месяцев"
+
+msgid "weeks"
+msgstr "недель"
+
+msgid "days"
+msgstr "дней"
+
+msgid "hours"
+msgstr "часов"
+
+msgid "minuts"
+msgstr "минут"
+
+msgid "seconds"
+msgstr "секунд"
+
+msgid "@1 ago"
+msgstr "@1 назад"
+

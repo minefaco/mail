@@ -1,0 +1,390 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-11 19:41-0500\n"
+"PO-Revision-Date: 2026-08-11 19:49+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: uk <LL@li.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: api.lua:49
+msgid "The mail could not be sent:"
+msgstr "Неможливо відправити пошту:"
+
+#: api.lua:55
+msgid "You did not specify any valid recipient."
+msgstr "Ви не вказали отримувача."
+
+#: onjoin.lua:20
+msgid "You have mail! Type /mail to read"
+msgstr "У вас є пошта! Введіть /mail для прочитання"
+
+#: player_recipients.lua:13
+msgid "You have a new message from @1! Subject: @2"
+msgstr "У вас нове повідомлення від @1! Тема: @2"
+
+#: player_recipients.lua:14
+msgid "To view it, type /mail"
+msgstr "Введіть /mail аби прочитати це"
+
+#: player_recipients.lua:15
+msgid "You could also use the button in your inventory."
+msgstr "Також ви можете використовувати кнопку в вашому інвентарі."
+
+msgid "Original author"
+msgstr "Автор оригіналу"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Internationalization"
+msgstr "Переклад"
+
+msgid "Textures"
+msgstr "Текстури"
+
+msgid "Audio"
+msgstr "Аудіо"
+
+msgid "Provided by mt-mods"
+msgstr "Надано mt-mods"
+
+msgid "Version: @1"
+msgstr "Версія: @1"
+
+msgid "Licenses"
+msgstr "Ліцензії"
+
+msgid "Expat (code), WTFPL (textures)"
+msgstr "Expat (код), WTFPL (текстури)"
+
+msgid "Communication using this system is NOT guaranteed to be private!"
+msgstr "Конфіденційність використання цієї системи НЕ гарантовано є приватною!"
+
+msgid "Admins are able to view the messages of any player."
+msgstr "Адмін може читати повідомлення всіх гравців."
+
+msgid "Contributors"
+msgstr "Учасники"
+
+msgid "Group by name"
+msgstr "Групувати по імені"
+
+msgid "Group by contribution"
+msgstr "Групувати по участю"
+
+msgid "Note"
+msgstr "Замітка"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "About"
+msgstr "Про..."
+
+msgid "BCC"
+msgstr "ВСС"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Save draft"
+msgstr "Збер.чернетку"
+
+msgid "Send"
+msgstr "Відправити"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "To"
+msgstr "Кому"
+
+msgid "CC"
+msgstr "Копія"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "New"
+msgstr "Створити"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Name"
+msgstr "Ім'я"
+
+msgid "No drafts"
+msgstr "Немає чернеток"
+
+msgid "Trash"
+msgstr "Кошик"
+
+msgid "Inbox"
+msgstr "Вхідні"
+
+msgid "Outbox"
+msgstr "Вихідні"
+
+msgid "Drafts"
+msgstr "Чернетки"
+
+msgid "Contacts"
+msgstr "Контакти"
+
+msgid "Mail lists"
+msgstr "Списки розсилки"
+
+msgid "Options"
+msgstr "Опції"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "(No subject)"
+msgstr "(без теми)"
+
+msgid "Player name"
+msgstr "Ім'я гравця"
+
+msgid "That name is already in your contacts"
+msgstr "Це ім'я вже збережено у ваших контактах"
+
+msgid "The contact name cannot be empty."
+msgstr "Ім'я контакта не може бути пустим."
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Maillist name"
+msgstr "Назва списку"
+
+msgid "Desc"
+msgstr "Опис"
+
+msgid "Players"
+msgstr "Гравці"
+
+msgid "That name is already in your mailing lists."
+msgstr "Це ім'я вже є у ваших списках розсилки."
+
+msgid "The mailing list name cannot be empty."
+msgstr "Назва списка не може бути пустою."
+
+msgid "Mark Read"
+msgstr "Прочитано"
+
+msgid "Mark Unread"
+msgstr "Непрочитано"
+
+msgid "Mark Spam"
+msgstr "Відм. спам"
+
+msgid "Unmark Spam"
+msgstr "Скас. спам"
+
+msgid "Reply"
+msgstr "Відповісти"
+
+msgid "Reply all"
+msgstr "Відповісти усім"
+
+msgid "Forward"
+msgstr "Переслати"
+
+msgid "Reply only to the sender"
+msgstr "Відповісти лише відправнику"
+
+msgid "Reply to all involved people"
+msgstr "Відповісти усім учасникам"
+
+msgid "Transfer message to other people"
+msgstr "Переслати це повідомлення іншим людям"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "From"
+msgstr "Від"
+
+msgid "Filter"
+msgstr "Фільтр"
+
+msgid "Allow multiple selection"
+msgstr "Дозволити вибір декількох"
+
+msgid "@1 of @2 selected"
+msgstr "@1 з @2 вибрані"
+
+msgid "(Un)select all"
+msgstr "Зняти вибір з усіх"
+
+msgid "No mail"
+msgstr "Немає пошти"
+
+msgid "Read"
+msgstr "Прочитано"
+
+msgid "Ascending"
+msgstr "Зростання"
+
+msgid "Descending"
+msgstr "Зменшення"
+
+msgid "(No description)"
+msgstr "(Немає опису)"
+
+msgid "No maillist"
+msgstr "Немає списків розсилки"
+
+msgid "Receivers"
+msgstr "Отримувачі"
+
+msgid "(Un)mute sender"
+msgstr "Увімк. звук для відправника"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Reset"
+msgstr "Скинути"
+
+msgid "Restore"
+msgstr "Відновити"
+
+msgid "Empty"
+msgstr "Очистити"
+
+msgid "Trash is empty"
+msgstr "Кошик пустий"
+
+msgid "From/To"
+msgstr "Від/До"
+
+msgid "No contacts"
+msgstr "Немає контактів"
+
+msgid "The method of delivery to @1 is invalid."
+msgstr "Метод доставки для @1 не дійсний."
+
+msgid "The recipient @1 could not be identified."
+msgstr "Не знайдено @1."
+
+msgid "@1 rejected your mail."
+msgstr "@1 відхилив ваше лист."
+
+msgid "Chat notifications"
+msgstr "Повідомлення у чаті"
+
+msgid "Receive a message in the chat when there is a new message"
+msgstr "Отримувати повідомленння у чаті при отриманні нового повідомлення"
+
+msgid "On join notifications"
+msgstr "Повідомлення при приєднанні"
+
+msgid "Receive a message at login when inbox isn't empty"
+msgstr "Отримувати повідомлення при приєднанні коли у теці «Вхідні» є нові листи"
+
+msgid "HUD notifications"
+msgstr "HUD повідомлення"
+
+msgid "Show an HUD notification when inbox isn't empty"
+msgstr "Показувати HUD повідомлення коли у теці «Вхідні» є нові листи"
+
+msgid "Sound notifications"
+msgstr "Звукові повідомлення"
+
+msgid "Play a sound when there is a new message"
+msgstr "Програвати звук при новому повідомленні"
+
+msgid "Show unread in different color"
+msgstr "Показувати непрочитані іншим кольором"
+
+msgid "Show CC/BCC in different color"
+msgstr "Показувати копію/приховану копію іншим кольором"
+
+msgid "Default sorting field"
+msgstr "Поле для сортування за замовч."
+
+msgid "Default sorting direction"
+msgstr "Напрям сортування за замовч."
+
+msgid "Move deleted messages to trash"
+msgstr "Переміщати видалені повідомлення до кошика"
+
+msgid "Automatic marking read"
+msgstr "Автоматично відмічати прочитані"
+
+msgid "Mark a message as read when opened"
+msgstr "Відмічати повідомлення як прочитане, коли відкрито"
+
+msgid "Date format"
+msgstr "Формат дати"
+
+msgid "Timezone offset"
+msgstr "Часовий пояс"
+
+msgid "Offset to add to server time."
+msgstr "Додавати до часу сервера."
+
+msgid "Mute list"
+msgstr "Заглушити список"
+
+msgid "Notifications"
+msgstr "Повідомлення"
+
+msgid "Message list"
+msgstr "Список повідомлень"
+
+msgid "Fields"
+msgstr "Поля"
+
+msgid "Spam"
+msgstr "Спам"
+
+msgid "Other"
+msgstr "Інше"
+
+msgid "Date and Time"
+msgstr "Дата й час"
+
+msgid "years"
+msgstr "років"
+
+msgid "months"
+msgstr "місяців"
+
+msgid "weeks"
+msgstr "тижнів"
+
+msgid "days"
+msgstr "днів"
+
+msgid "hours"
+msgstr "годин"
+
+msgid "minuts"
+msgstr "хвилин"
+
+msgid "seconds"
+msgstr "секунд"
+
+msgid "@1 ago"
+msgstr "@1 тому"
+
