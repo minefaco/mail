@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: mail\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-11 19:41-0500\n"
-"PO-Revision-Date: 2026-08-11 19:49+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: fr <LL@li.org>\n"
+"PO-Revision-Date: 2026-08-25 14:43+0000\n"
+"Last-Translator: GGepic64 <alex2019.bouhlel@laposte.net>\n"
+"Language-Team: French <https://translate.luanti.ch/projects/mt-mods/mail/fr/>"
+"\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #: api.lua:49
 msgid "The mail could not be sent:"
@@ -38,7 +41,7 @@ msgstr "Pour le consulter, entrez /mail"
 
 #: player_recipients.lua:15
 msgid "You could also use the button in your inventory."
-msgstr "Vous pouvez également utiliser le bouton dans votre inventaire"
+msgstr "Vous pouvez également utiliser le bouton dans votre inventaire."
 
 msgid "Original author"
 msgstr "Auteur original"
@@ -387,4 +390,3 @@ msgstr "secondes"
 
 msgid "@1 ago"
 msgstr "Il y a @1"
-
